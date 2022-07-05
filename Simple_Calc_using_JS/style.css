@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    align-items: center;
+    background-color: darkgrey;
+}
+.calc-form
+{
+    border: 3px solid black;
+    width:fit-content;
+    margin-left: 50%;
+    background-color: darkslateblue;
+}
+h2{
+    margin:20px;
+    margin-left: 52%;
+    width: 200px;
+    text-align: center;
+    background-color:darkslateblue;
+    color: white;
+}
+input{
+    width: 25px;
+    background-color: darkslategray;
+    font-weight: 5px;
+    color: black;
+    border: 3px solid black;
+    border-radius: 10%;
+    padding: 20px;
+    margin: 5px;
+}
+#calc
+{
+width: 200px;
+}
+
+#clear
+{
+    margin-left: 30px;
+width: 200px;
+}
