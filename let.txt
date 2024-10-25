@@ -1,0 +1,1 @@
+using let , const ,var to initialize the values into the variables.
